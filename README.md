@@ -8,15 +8,13 @@ Expense Manager is a Java-based application designed to help users track their i
 - **Budget Management:** Set monthly budgets and track progress.
 - **Data Visualization:** Generate bar charts for income and expenses over time using JFreeChart.
 - **Report Generation:** Export transaction reports as PDF or text files.
-- **Graphical User Interface (GUI):** User-friendly interface built with Java Swing.
 
 ## Technologies Used
 - **Java**: Programming language.
 - **SQLite**: Database for storing transactions and budgets.
 - **JFreeChart**: Library for creating charts.
 - **iText**: Library for generating PDF reports.
-- **Swing**: Framework for the graphical user interface.
-
+  
 ## Installation
 ### Prerequisites
 - Java Development Kit (JDK) 8 or higher
