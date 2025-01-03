@@ -60,8 +60,4 @@ Month    Type      Amount
 2025-01  Income    5000.00
 2025-01  Expense   2000.00
 ```
-For questions or suggestions, feel free to contact:
-- Name: Your Name
-- Email: your.email@example.com
-- GitHub: [your-username](https://github.com/your-username)
 
